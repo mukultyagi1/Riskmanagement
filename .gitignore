@@ -8,7 +8,7 @@ gen/
 node_modules/
 target/
 *.sqlite
-
+.env
 # Web IDE, App Studio
 .che/
 .gen/

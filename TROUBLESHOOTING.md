@@ -56,7 +56,7 @@ In `risk-service.js` adjust the event handler as follows:
             },
         });
     });
-```
+
 
 ## Issue: NPM can't finde a package / npm package not in registry
 
